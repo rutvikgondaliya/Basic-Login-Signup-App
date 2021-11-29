@@ -13,15 +13,10 @@ import java.net.URL;
 
 public class DashboardActivity extends AppCompatActivity {
 
-    EditText secretCodeBox;
-    Button joinBtn, shareBtn;
-
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_dashboard);
-
-
 
     }
 }
